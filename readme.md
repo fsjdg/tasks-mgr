@@ -12,9 +12,13 @@ You will be graded on how well-written & readable your code is, if it works, and
 
 ### Using composer
 
+Download the ptoject and run
+
 ```sh
 composer.phar install
 ```
+
+on the root of the project
 
 ### If you don't have composer
 You can download it [here](https://getcomposer.org/download/).
